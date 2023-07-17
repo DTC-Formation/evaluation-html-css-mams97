@@ -33,7 +33,7 @@ p{
         display: flex;
         justify-content: space-between;
         align-items: center;
-        height: 100px;
+        height: 80px;
     }
 
     .nav-link{
@@ -127,7 +127,7 @@ p{
 
     .text-article{
         color: hsl(240, 100%, 5%);
-        width: 300px;
+        width: 350px;
     }
 
     .button{
@@ -280,7 +280,7 @@ p{
     }
 
     .title-box{
-        width: 200px;
+        width: 250px;
         padding-top: 10px;
     }
 
@@ -290,7 +290,7 @@ p{
     }
 
     .article-box{
-        width: 310px;
+        width: 350px;
     }
 
     .article-items{
@@ -305,6 +305,7 @@ p{
     }
 
     .text-article{
+        line-height: 0.5em;
         color: hsl(240, 100%, 5%);
     }
 
